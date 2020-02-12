@@ -3,3 +3,10 @@ footer {
   padding-bottom: 1em;
   background-color: aliceblue;
 }
+
+h4 {
+  color: blue;
+}
+footer {
+  background-color: coral;
+}
